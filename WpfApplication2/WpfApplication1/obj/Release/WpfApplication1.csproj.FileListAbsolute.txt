@@ -1,0 +1,43 @@
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\bin\Release\WpfApplication1.exe.config
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\bin\Release\WpfApplication1.exe
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\bin\Release\WpfApplication1.pdb
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\MainWindow.g.cs
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\App.g.cs
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\MainWindow.baml
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1.g.resources
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1.exe
+L:\oleg\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1.pdb
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\bin\Release\WpfApplication1.exe.config
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1.exe
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1.pdb
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\MainWindow.g.cs
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\Window1.g.cs
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\App.g.cs
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\bin\Release\WpfApplication1.exe
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\bin\Release\WpfApplication1.pdb
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\MainWindow.baml
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\Window1.baml
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1.g.resources
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\Progress.g.cs
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication2\WpfApplication1\obj\Release\Progress.baml

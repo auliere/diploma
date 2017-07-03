@@ -1,0 +1,16 @@
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+E:\STUDY\STUDY\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+E:\STUDY\STUDY\DIPLOMA (1)\DIPLOMA\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb

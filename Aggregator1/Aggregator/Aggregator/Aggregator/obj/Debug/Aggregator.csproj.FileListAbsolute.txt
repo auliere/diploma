@@ -1,0 +1,8 @@
+E:\STUDY\STUDY\DIPLOMA\Aggregator\Aggregator\Aggregator\bin\Debug\Aggregator.exe.config
+E:\STUDY\STUDY\DIPLOMA\Aggregator\Aggregator\Aggregator\bin\Debug\Aggregator.exe
+E:\STUDY\STUDY\DIPLOMA\Aggregator\Aggregator\Aggregator\bin\Debug\Aggregator.pdb
+E:\STUDY\STUDY\DIPLOMA\Aggregator\Aggregator\Aggregator\bin\Debug\WebDriver.dll
+E:\STUDY\STUDY\DIPLOMA\Aggregator\Aggregator\Aggregator\bin\Debug\WebDriver.xml
+E:\STUDY\STUDY\DIPLOMA\Aggregator\Aggregator\Aggregator\obj\Debug\Aggregator.exe
+E:\STUDY\STUDY\DIPLOMA\Aggregator\Aggregator\Aggregator\obj\Debug\Aggregator.pdb
+E:\STUDY\STUDY\DIPLOMA\Aggregator\Aggregator\Aggregator\obj\Debug\Aggregator.csprojResolveAssemblyReference.cache
